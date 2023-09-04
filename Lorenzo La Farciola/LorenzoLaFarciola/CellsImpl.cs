@@ -1,5 +1,4 @@
-﻿namespace LorenzoLaFarciola;
-
+﻿
     public class CellsImpl : Cells
     {
         private TroopType troop;

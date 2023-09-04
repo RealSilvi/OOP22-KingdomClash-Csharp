@@ -1,4 +1,4 @@
-﻿namespace LorenzoLaFarciola;
+﻿
 
     public interface Cells
     {

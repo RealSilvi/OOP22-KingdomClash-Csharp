@@ -1,6 +1,4 @@
-﻿using LorenzoLaFarciola;
-
-namespace LorenzoLaFarciolaTest;
+﻿
 
 [TestClass]
 public class CellsImplTest

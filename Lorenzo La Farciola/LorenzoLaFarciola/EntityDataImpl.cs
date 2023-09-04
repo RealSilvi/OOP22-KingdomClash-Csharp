@@ -2,8 +2,6 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace LorenzoLaFarciola;
-
     public class EntityDataImpl : EntityData
     {
         private readonly int totalTroops;

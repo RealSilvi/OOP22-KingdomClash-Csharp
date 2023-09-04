@@ -1,7 +1,5 @@
 ﻿using System.Collections.Generic;
 
-namespace LorenzoLaFarciola;
-
     public interface EntityData
     {
         void setEntityTroop(Dictionary<int, CellsImpl> entityTroop);

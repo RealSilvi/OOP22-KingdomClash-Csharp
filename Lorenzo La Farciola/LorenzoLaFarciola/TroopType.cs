@@ -2,8 +2,6 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace LorenzoLaFarciola;
-
     public enum TroopType
     {
         AXE,
