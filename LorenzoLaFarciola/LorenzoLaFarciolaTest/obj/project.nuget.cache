@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "YowpY62/mwYnqUugj2lrCLBNdg6DDTS8Q+Rayj4dk8ZTKjuCy81T/X4xxLQxViHd5kh5h8I4I5rEJMekg0fAbA==",
+  "dgSpecHash": "kMwiqcxGMnKmgapsQ+TJ66QAceEC1K1v7jxXlp6HLYVorf+6nLBw6yL+VVbggnzZsumiGhvFijq/b0oHde6N1g==",
   "success": true,
   "projectFilePath": "C:\\Users\\llafa\\Desktop\\OOP22-KingdomClash-Csharp\\LorenzoLaFarciola\\LorenzoLaFarciolaTest\\LorenzoLaFarciolaTest.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\llafa\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\llafa\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\llafa\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512"
+  ],
   "logs": []
 }
