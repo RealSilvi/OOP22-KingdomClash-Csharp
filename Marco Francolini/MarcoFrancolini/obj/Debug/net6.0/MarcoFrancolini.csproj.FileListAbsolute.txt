@@ -1,0 +1,12 @@
+C:\Users\llafa\Desktop\OOP22-KingdomClash-Csharp\Marco Francolini\MarcoFrancolini\bin\Debug\net6.0\MarcoFrancolini.deps.json
+C:\Users\llafa\Desktop\OOP22-KingdomClash-Csharp\Marco Francolini\MarcoFrancolini\bin\Debug\net6.0\MarcoFrancolini.dll
+C:\Users\llafa\Desktop\OOP22-KingdomClash-Csharp\Marco Francolini\MarcoFrancolini\bin\Debug\net6.0\MarcoFrancolini.pdb
+C:\Users\llafa\Desktop\OOP22-KingdomClash-Csharp\Marco Francolini\MarcoFrancolini\obj\Debug\net6.0\MarcoFrancolini.csproj.AssemblyReference.cache
+C:\Users\llafa\Desktop\OOP22-KingdomClash-Csharp\Marco Francolini\MarcoFrancolini\obj\Debug\net6.0\MarcoFrancolini.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\llafa\Desktop\OOP22-KingdomClash-Csharp\Marco Francolini\MarcoFrancolini\obj\Debug\net6.0\MarcoFrancolini.AssemblyInfoInputs.cache
+C:\Users\llafa\Desktop\OOP22-KingdomClash-Csharp\Marco Francolini\MarcoFrancolini\obj\Debug\net6.0\MarcoFrancolini.AssemblyInfo.cs
+C:\Users\llafa\Desktop\OOP22-KingdomClash-Csharp\Marco Francolini\MarcoFrancolini\obj\Debug\net6.0\MarcoFrancolini.csproj.CoreCompileInputs.cache
+C:\Users\llafa\Desktop\OOP22-KingdomClash-Csharp\Marco Francolini\MarcoFrancolini\obj\Debug\net6.0\MarcoFrancolini.dll
+C:\Users\llafa\Desktop\OOP22-KingdomClash-Csharp\Marco Francolini\MarcoFrancolini\obj\Debug\net6.0\refint\MarcoFrancolini.dll
+C:\Users\llafa\Desktop\OOP22-KingdomClash-Csharp\Marco Francolini\MarcoFrancolini\obj\Debug\net6.0\MarcoFrancolini.pdb
+C:\Users\llafa\Desktop\OOP22-KingdomClash-Csharp\Marco Francolini\MarcoFrancolini\obj\Debug\net6.0\ref\MarcoFrancolini.dll

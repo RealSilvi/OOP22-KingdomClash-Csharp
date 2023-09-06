@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "wEmAngtUCaOBTYqNSwkCFpnbktovFrKeVITQrhjo+/95XIJtK2hlldk8PBmU1xINIhHW2L0hLLHzqBkGOfi3Rg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\llafa\\Desktop\\OOP22-KingdomClash-Csharp\\Marco Francolini\\MarcoFrancolini\\MarcoFrancolini.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\llafa\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.20\\microsoft.netcore.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\llafa\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.20\\microsoft.windowsdesktop.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\llafa\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.20\\microsoft.aspnetcore.app.ref.6.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}

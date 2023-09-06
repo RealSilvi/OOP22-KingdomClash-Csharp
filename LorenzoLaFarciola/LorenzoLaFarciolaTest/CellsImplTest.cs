@@ -6,7 +6,8 @@ namespace LorenzoLaFarciolaTest;
 [TestFixture]
 public class CellsImplTest
 {
-    [Test]
+    
+   [Test]
     public void TestCellsImpl()
     {
         CellsImpl cells = new CellsImpl(TroopType.Axe, true);

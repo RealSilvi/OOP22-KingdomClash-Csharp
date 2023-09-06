@@ -1,0 +1,15 @@
+C:\Users\llafa\LorenzoLaFarciola\LorenzoLaFarciola\LorenzoLaFarciola\bin\Debug\net7.0\LorenzoLaFarciola.exe
+C:\Users\llafa\LorenzoLaFarciola\LorenzoLaFarciola\LorenzoLaFarciola\bin\Debug\net7.0\LorenzoLaFarciola.deps.json
+C:\Users\llafa\LorenzoLaFarciola\LorenzoLaFarciola\LorenzoLaFarciola\bin\Debug\net7.0\LorenzoLaFarciola.runtimeconfig.json
+C:\Users\llafa\LorenzoLaFarciola\LorenzoLaFarciola\LorenzoLaFarciola\bin\Debug\net7.0\LorenzoLaFarciola.dll
+C:\Users\llafa\LorenzoLaFarciola\LorenzoLaFarciola\LorenzoLaFarciola\bin\Debug\net7.0\LorenzoLaFarciola.pdb
+C:\Users\llafa\LorenzoLaFarciola\LorenzoLaFarciola\LorenzoLaFarciola\obj\Debug\net7.0\LorenzoLaFarciola.csproj.AssemblyReference.cache
+C:\Users\llafa\LorenzoLaFarciola\LorenzoLaFarciola\LorenzoLaFarciola\obj\Debug\net7.0\LorenzoLaFarciola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\llafa\LorenzoLaFarciola\LorenzoLaFarciola\LorenzoLaFarciola\obj\Debug\net7.0\LorenzoLaFarciola.AssemblyInfoInputs.cache
+C:\Users\llafa\LorenzoLaFarciola\LorenzoLaFarciola\LorenzoLaFarciola\obj\Debug\net7.0\LorenzoLaFarciola.AssemblyInfo.cs
+C:\Users\llafa\LorenzoLaFarciola\LorenzoLaFarciola\LorenzoLaFarciola\obj\Debug\net7.0\LorenzoLaFarciola.csproj.CoreCompileInputs.cache
+C:\Users\llafa\LorenzoLaFarciola\LorenzoLaFarciola\LorenzoLaFarciola\obj\Debug\net7.0\LorenzoLaFarciola.dll
+C:\Users\llafa\LorenzoLaFarciola\LorenzoLaFarciola\LorenzoLaFarciola\obj\Debug\net7.0\refint\LorenzoLaFarciola.dll
+C:\Users\llafa\LorenzoLaFarciola\LorenzoLaFarciola\LorenzoLaFarciola\obj\Debug\net7.0\LorenzoLaFarciola.pdb
+C:\Users\llafa\LorenzoLaFarciola\LorenzoLaFarciola\LorenzoLaFarciola\obj\Debug\net7.0\LorenzoLaFarciola.genruntimeconfig.cache
+C:\Users\llafa\LorenzoLaFarciola\LorenzoLaFarciola\LorenzoLaFarciola\obj\Debug\net7.0\ref\LorenzoLaFarciola.dll

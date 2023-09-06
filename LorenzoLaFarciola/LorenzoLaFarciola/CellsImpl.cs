@@ -7,35 +7,50 @@ public class CellsImpl : ICells
 
     public CellsImpl(TroopType troop, bool clicked)
     {
-        this._troop = troop;
-        this._clicked = clicked;
+        _troop = troop;
+        _clicked = clicked;
     }
 
     public void SetTroop(TroopType troop)
     {
-        this._troop = troop;
+        _troop = troop;
     }
 
     public void SetClicked(bool clicked)
     {
-        this._clicked = clicked;
+        _clicked = clicked;
     }
 
     public void SetChosen(bool chosen)
     {
         if (chosen)
         {
-            this._clicked = true;
+            _clicked = true;
         }
     }
 
     public TroopType GetTroop()
     {
-        return this._troop;
+        return _troop;
     }
 
     public bool GetClicked()
     {
-        return this._clicked;
+        return _clicked;
     }
+    
+    public override bool Equals(object? obj)
+    {
+        if (obj is CellsImpl other)
+        {
+            return _troop == other._troop && _clicked == other._clicked;
+        }
+        return false;
+    }
+        
+    public override int GetHashCode()
+    {
+        return HashCode.Combine(_troop, _clicked);
+    }
+    
 }
