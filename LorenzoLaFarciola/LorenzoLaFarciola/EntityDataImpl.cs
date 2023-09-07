@@ -66,8 +66,9 @@ using System.Linq;
             {
                 if (!_entityTroop[i].GetClicked())
                 {
-                    _entityTroop[i].SetTroop(TroopTypeImpl.GetRandomTroop());
-                    troopChanged[i] = _entityTroop[i].GetTroop();
+                    TroopType newTroop = TroopTypeImpl.GetRandomTroop();
+                    _entityTroop[i].SetTroop(newTroop);
+                    troopChanged[i] = newTroop;
                 }
             }
             return troopChanged;
@@ -121,11 +122,10 @@ using System.Linq;
             playerOptionalList.AddRange(playerData.GetSelected()
                 .Where(x => Array.IndexOf(Enum.GetValues(typeof(TroopType)), x) == a)
                 .Select(x => (TroopType?)x));
+            Nullable<TroopType> troopCurrent = (Nullable<TroopType>)Enum.GetValues(typeof(TroopType)).GetValue(a);
+            TroopType troopNullable = TroopTypeImpl.GetNullable(troopCurrent!.Value)!.Value;
             botOptionalList.AddRange(botData.GetSelected()
-                .Where(x => x == TroopTypeImpl.GetNullable(Enum.GetValues(typeof(TroopType))
-                .Cast<TroopType>()
-                .OrderBy(t => Array.IndexOf(Enum.GetValues(typeof(TroopType)), t) == a)
-                .First()))
+                .Where(x => x == troopNullable)
                 .Select(x => (TroopType?)x));
             int b;
             int differenceSize;
@@ -169,7 +169,8 @@ using System.Linq;
         {
         List<TroopType?> bothOrdered = GetOrderedField(playerData, botData);
         List<TroopType?> playerOrdered = bothOrdered.GetRange(0, bothOrdered.Count / 2);
-        List<TroopType?> botOrdered = bothOrdered.GetRange(bothOrdered.Count / 2, bothOrdered.Count);
+        bothOrdered.RemoveRange(0, bothOrdered.Count / 2);
+        List<TroopType?> botOrdered = bothOrdered.GetRange(0, bothOrdered.Count);
         List<TroopType?> finalPlayer = new List<TroopType?>(playerData.GetTotalTroops());
         List<TroopType?> finalBot = new List<TroopType?>(playerData.GetTotalTroops());
         int maxPosition = playerData.GetTotalTroops() - 1;
@@ -227,4 +228,5 @@ using System.Linq;
         {
             return _totalTroops;
         }
+        
     }
