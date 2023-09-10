@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "SilviSinani/1.0.0": {
+        "runtime": {
+          "SilviSinani.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SilviSinani/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
