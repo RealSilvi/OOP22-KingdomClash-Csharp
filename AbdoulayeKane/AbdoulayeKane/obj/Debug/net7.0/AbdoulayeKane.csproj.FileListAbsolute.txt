@@ -1,0 +1,14 @@
+C:\Users\abdou\OneDrive\Desktop\C#\OOP22-KingdomClash-Csharp\AbdoulayeKane\AbdoulayeKane\bin\Debug\net7.0\AbdoulayeKane.exe
+C:\Users\abdou\OneDrive\Desktop\C#\OOP22-KingdomClash-Csharp\AbdoulayeKane\AbdoulayeKane\bin\Debug\net7.0\AbdoulayeKane.deps.json
+C:\Users\abdou\OneDrive\Desktop\C#\OOP22-KingdomClash-Csharp\AbdoulayeKane\AbdoulayeKane\bin\Debug\net7.0\AbdoulayeKane.runtimeconfig.json
+C:\Users\abdou\OneDrive\Desktop\C#\OOP22-KingdomClash-Csharp\AbdoulayeKane\AbdoulayeKane\bin\Debug\net7.0\AbdoulayeKane.dll
+C:\Users\abdou\OneDrive\Desktop\C#\OOP22-KingdomClash-Csharp\AbdoulayeKane\AbdoulayeKane\bin\Debug\net7.0\AbdoulayeKane.pdb
+C:\Users\abdou\OneDrive\Desktop\C#\OOP22-KingdomClash-Csharp\AbdoulayeKane\AbdoulayeKane\obj\Debug\net7.0\AbdoulayeKane.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdou\OneDrive\Desktop\C#\OOP22-KingdomClash-Csharp\AbdoulayeKane\AbdoulayeKane\obj\Debug\net7.0\AbdoulayeKane.AssemblyInfoInputs.cache
+C:\Users\abdou\OneDrive\Desktop\C#\OOP22-KingdomClash-Csharp\AbdoulayeKane\AbdoulayeKane\obj\Debug\net7.0\AbdoulayeKane.AssemblyInfo.cs
+C:\Users\abdou\OneDrive\Desktop\C#\OOP22-KingdomClash-Csharp\AbdoulayeKane\AbdoulayeKane\obj\Debug\net7.0\AbdoulayeKane.csproj.CoreCompileInputs.cache
+C:\Users\abdou\OneDrive\Desktop\C#\OOP22-KingdomClash-Csharp\AbdoulayeKane\AbdoulayeKane\obj\Debug\net7.0\AbdoulayeKane.dll
+C:\Users\abdou\OneDrive\Desktop\C#\OOP22-KingdomClash-Csharp\AbdoulayeKane\AbdoulayeKane\obj\Debug\net7.0\refint\AbdoulayeKane.dll
+C:\Users\abdou\OneDrive\Desktop\C#\OOP22-KingdomClash-Csharp\AbdoulayeKane\AbdoulayeKane\obj\Debug\net7.0\AbdoulayeKane.pdb
+C:\Users\abdou\OneDrive\Desktop\C#\OOP22-KingdomClash-Csharp\AbdoulayeKane\AbdoulayeKane\obj\Debug\net7.0\AbdoulayeKane.genruntimeconfig.cache
+C:\Users\abdou\OneDrive\Desktop\C#\OOP22-KingdomClash-Csharp\AbdoulayeKane\AbdoulayeKane\obj\Debug\net7.0\ref\AbdoulayeKane.dll
