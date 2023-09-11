@@ -1,0 +1,11 @@
+/Users/silvisinani/code/SilviSinani/SilviSinani/bin/Debug/net7.0/SilviSinani.deps.json
+/Users/silvisinani/code/SilviSinani/SilviSinani/bin/Debug/net7.0/SilviSinani.dll
+/Users/silvisinani/code/SilviSinani/SilviSinani/bin/Debug/net7.0/SilviSinani.pdb
+/Users/silvisinani/code/SilviSinani/SilviSinani/obj/Debug/net7.0/SilviSinani.GeneratedMSBuildEditorConfig.editorconfig
+/Users/silvisinani/code/SilviSinani/SilviSinani/obj/Debug/net7.0/SilviSinani.AssemblyInfoInputs.cache
+/Users/silvisinani/code/SilviSinani/SilviSinani/obj/Debug/net7.0/SilviSinani.AssemblyInfo.cs
+/Users/silvisinani/code/SilviSinani/SilviSinani/obj/Debug/net7.0/SilviSinani.csproj.CoreCompileInputs.cache
+/Users/silvisinani/code/SilviSinani/SilviSinani/obj/Debug/net7.0/SilviSinani.dll
+/Users/silvisinani/code/SilviSinani/SilviSinani/obj/Debug/net7.0/refint/SilviSinani.dll
+/Users/silvisinani/code/SilviSinani/SilviSinani/obj/Debug/net7.0/SilviSinani.pdb
+/Users/silvisinani/code/SilviSinani/SilviSinani/obj/Debug/net7.0/ref/SilviSinani.dll
